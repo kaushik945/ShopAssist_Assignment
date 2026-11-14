@@ -1,0 +1,162 @@
+[
+  {
+    "track": "SupportCopilot",
+    "ticket": "T-1001",
+    "action": "REFUND",
+    "kb_article": "returns-within-30-days",
+    "points": 1857,
+    "calls": [
+      {
+        "label": "handle_ticket",
+        "input": 389,
+        "cached_input": 0,
+        "output": 46,
+        "points": 1857
+      }
+    ]
+  },
+  {
+    "track": "SupportCopilot",
+    "ticket": "T-1002",
+    "action": "SEND_ARTICLE",
+    "kb_article": "digital-license-no-refund",
+    "points": 1734,
+    "calls": [
+      {
+        "label": "handle_ticket",
+        "input": 383,
+        "cached_input": 0,
+        "output": 39,
+        "points": 1734
+      }
+    ]
+  },
+  {
+    "track": "SupportCopilot",
+    "ticket": "T-1003",
+    "action": "ESCALATE_TIER2",
+    "kb_article": "custom-items-no-replace",
+    "points": 1695,
+    "calls": [
+      {
+        "label": "handle_ticket",
+        "input": 370,
+        "cached_input": 0,
+        "output": 39,
+        "points": 1695
+      }
+    ]
+  },
+  {
+    "track": "SupportCopilot",
+    "ticket": "T-1004",
+    "action": "REPLACE",
+    "kb_article": "damage-replacement-7-days",
+    "points": 1656,
+    "calls": [
+      {
+        "label": "handle_ticket",
+        "input": 372,
+        "cached_input": 0,
+        "output": 36,
+        "points": 1656
+      }
+    ]
+  },
+  {
+    "track": "SupportCopilot",
+    "ticket": "T-1091",
+    "action": "SEND_ARTICLE",
+    "kb_article": "subscription-cooling-off",
+    "points": 1698,
+    "calls": [
+      {
+        "label": "handle_ticket",
+        "input": 376,
+        "cached_input": 0,
+        "output": 38,
+        "points": 1698
+      }
+    ]
+  },
+  {
+    "track": "SupportPipeline",
+    "ticket": "T-1001",
+    "action": "REFUND",
+    "kb_article": "returns-within-30-days",
+    "points": 1410,
+    "calls": [
+      {
+        "label": "compose",
+        "input": 240,
+        "cached_input": 0,
+        "output": 46,
+        "points": 1410
+      }
+    ]
+  },
+  {
+    "track": "SupportPipeline",
+    "ticket": "T-1002",
+    "action": "SEND_ARTICLE",
+    "kb_article": "digital-license-no-refund",
+    "points": 1266,
+    "calls": [
+      {
+        "label": "compose",
+        "input": 227,
+        "cached_input": 0,
+        "output": 39,
+        "points": 1266
+      }
+    ]
+  },
+  {
+    "track": "SupportPipeline",
+    "ticket": "T-1003",
+    "action": "ESCALATE_TIER2",
+    "kb_article": "custom-items-no-replace",
+    "points": 1314,
+    "calls": [
+      {
+        "label": "compose",
+        "input": 243,
+        "cached_input": 0,
+        "output": 39,
+        "points": 1314
+      }
+    ]
+  },
+  {
+    "track": "SupportPipeline",
+    "ticket": "T-1004",
+    "action": "REPLACE",
+    "kb_article": "damage-replacement-7-days",
+    "points": 1188,
+    "calls": [
+      {
+        "label": "compose",
+        "input": 216,
+        "cached_input": 0,
+        "output": 36,
+        "points": 1188
+      }
+    ]
+  },
+  {
+    "track": "SupportPipeline",
+    "ticket": "T-1091",
+    "action": "SEND_ARTICLE",
+    "kb_article": "subscription-cooling-off",
+    "points": 1251,
+    "calls": [
+      {
+        "label": "compose",
+        "input": 227,
+        "cached_input": 0,
+        "output": 38,
+        "points": 1251
+      }
+    ]
+  }
+]
